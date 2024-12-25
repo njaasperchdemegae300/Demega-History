@@ -1,0 +1,2 @@
+//To run this code in the txt edictor u use start + the very file  u whant to open 
+//but inthe VScode edictor you will use code + the the file u whant to open
