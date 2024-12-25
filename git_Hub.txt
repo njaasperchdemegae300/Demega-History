@@ -1,0 +1,4 @@
+this is the best time to run for my dear Life
+
+git status // this command is  to know if file has been include to the working Director /Not
+git init // command is use to use to install install git_Hub
