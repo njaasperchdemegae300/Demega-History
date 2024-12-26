@@ -1,0 +1,30 @@
+this is the best time to run for my dear Life
+
+git status // this command is  to know if file has been include to the working Director /Not
+git init // command is use to use to install install git_Hub
+git add + the file Name that you whant add to the staging area
+
+// git config --global user.email this to register your email for the first time in git_Hub
+// git config --global user.name this to register your user name for the first time  in git_Hub
+
+//git commit // is use to add file inside the staging area
+// git log // is use to checkout the file which you have commited inside our git_Local_Repository
+
+// git branch + the branch giving name: This command is used to create a new branch
+
+// git branch; This cmd is used to check your branch location in the git Repository
+
+git checkout + branch name: this cmd is used to swich to the branch you want
+
+// git branch + the branch giving name: This command is used to create a new branch
+
+// git branch; This cmd is used to check your branch location in the git Repository
+
+git checkout + branch name: this cmd is used to swich to the branch you want
+
+//  git push origin main -u : this cmd is used to post file to our git_remote_Repository (i.e our git_Hub server)
+where we can host our codes
+
+// git merge: Is used to transfer files from our seprate branch tothe main branch 
+in our git_Local_Repository
+

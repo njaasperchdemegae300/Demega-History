@@ -1,0 +1,58 @@
+//To run this code in the txt edictor u use start + the very file  u whant to open 
+//but inthe VScode edictor you will use code + the the file u whant to open
+    
+
+1. git config --global user.email(you will now spacify the Email you to add) this used to register the  new Email to the git_Hub
+
+git config --global user.name (you will spacify the name you want to register tothe git) this is used to register new name tothe git
+
+
+
+
+2. git init : Is Used to Inisailed our project to the git_Hub
+
+
+3.   git status: 
+ Is used to know either your file is still inthe working directory  or inthe staging area
+[By using the CMD: git status]
+
+
+4. git add: is Used to add our files  tothe git status [the Next location after our working directory] 
+So we start track the changes of the very file or the document
+ git add + . : Is Used to add A Multiple files to our git_Local_Repositoryproject 
+
+note that git add is ued for single file
+why git add + . is used for the Multiple files
+
+
+
+5. git commit -m "initail commite": is Used to send our project to the git_Local_Repository
+and also to  save our updated files to our git_Local_Repository
+
+
+ 6.  git diff + the file name you want to restore  : Is Used to Know the privours Version of the file we want to Restory
+git checkout + the file name: this CMD is used call the deleted file back to our git_Local_Repository
+
+7.  git log: Is used to see the files which we have created or updated in our git_Local_Repository
+
+
+
+
+8.  // git merge: Is used to transfer files from our seprate branch tothe main branch 
+in our git_Local_Repository
+
+1.  you spacify the git merge + the file name which you want to merge
+2.  you will than said  :q! in other to push the file to our git_Local_Repository
+
+with this code we can transfer the file from our seprate branch tothe main branch
+
+Note that You have to be in the proper location before you can merge any file
+
+
+
+ 9.
+git rm --cached -r .  // is used to remove all the file which you don't want to add to the git-staging area 
+
+
+
+10. we should know that any file that we create with the . Symbole before the file name is a hidding file
