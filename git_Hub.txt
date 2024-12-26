@@ -8,3 +8,9 @@ git add + the file Name that you whant add to the staging area
 //git commit // is use to add file inside the staging area
 // git log // is use to checkout the file which you have commit
 
+// git branch + the branch giving name: This command is used to create a new branch
+
+// git branch; This cmd is used to check your branch location in the git Repository
+
+git checkout + branch name: this cmd is used to swich to the branch you want
+

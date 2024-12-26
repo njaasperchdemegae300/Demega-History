@@ -1,2 +1,21 @@
 //To run this code in the txt edictor u use start + the very file  u whant to open 
 //but inthe VScode edictor you will use code + the the file u whant to open
+
+
+
+git status: Used to No/checkout/ to know if the file have been added to our staging area
+git init : Used to Inisailed our project to the git_Hub
+
+git add: is Used to add our project tothe git staging area
+git commit -m "initail commite" + the file you want to commit: is Used to send our project to the git_Local_Repository
+
+
+git config --global user.email(you will now spacify the Email you to add) this used to register the  new Email to the git_Hub
+
+git config --global user.name (you will spacify the name you want to register tothe git) this is used to register new name tothe git
+
+git add + . : Is Used to add A Multiple files to our git_Local_Repository
+
+git diff: Is Used to Know the privours Version of the file we want to Restory
+
+git rm --cached -r .  // is used to remove all the file which you don't want to add to the git-staging area
